@@ -40,9 +40,9 @@ of Biosciences.
 
 # comments
 
-Very helpful talks in one is considering to go for academia,
+Very helpful talks if one is considering to go for academia,
 specially when I am nearly to the submission of my PhD thesis.
-With that in mind in considering my human limitations, I written 
+With that in mind and considering my human limitations, I written 
 down some of the highlights from each of the speakers!
 
 * Hanna Price
@@ -68,4 +68,5 @@ down some of the highlights from each of the speakers!
 	* One path might be doing research that is driven by industry.
 
 
+Many Thanks @UB_PERCAT_EPLES @Unibirm_PERCAT
 
